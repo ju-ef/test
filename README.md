@@ -5,6 +5,6 @@ _fdsafds_
 __fdsafs__  
 ***fdsfdf***  
 ___fdsafdsf___   
-~fdfadsf~  
+~single~  
 ~~fdfsaf~~  
-~~~fdsfasdf~~~  
+~~~triple~~~  
